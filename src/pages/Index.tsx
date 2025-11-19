@@ -65,7 +65,7 @@ const Index = () => {
         <nav className="container mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center gap-2">
             <Icon name="Zap" className="text-primary" size={28} />
-            <span className="text-xl font-bold">TechConnect</span>
+            <span className="text-xl font-bold">FlyTech</span>
           </div>
           <div className="hidden md:flex items-center gap-6">
             <a href="#home" className="hover:text-primary transition-colors">Главная</a>
